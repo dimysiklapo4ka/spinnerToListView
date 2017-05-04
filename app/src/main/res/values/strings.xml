@@ -1,27 +1,31 @@
 <resources>
     <string name="app_name">MySpeenerInit</string>
 
-    <string-array name="group_intensive">
+    <array name="group_intensive">
         <item>Max</item>
         <item>Roman</item>
         <item>Dima</item>
-    </string-array>
+    </array>
 
-    <string-array name="max_task">
+    <array name="max_task">
         <item>Calculator Math.class</item>
         <item>BMI</item>
         <item>Wiget Sinoptic</item>
-    </string-array>
+    </array>
 
-    <string-array name="roma_task">
+    <array name="roma_task">
         <item>Calculator</item>
         <item>Piano</item>
         <item>Money banking</item>
-    </string-array>
+    </array>
 
-    <string-array name="dima_task">
+    <array name="dima_task">
         <item>Calculator programming</item>
         <item>China Calendar</item>
         <item>Internet brovzer</item>
-    </string-array>
+    </array>
+    
+    <string name="input_field">Input Field</string>
+    <string name="add">ADD</string>
+    <string name="name">Name</string>
 </resources>
